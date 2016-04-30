@@ -1,3 +1,3 @@
 print "Allahu Akbar!!!"
-raise "Kaboom!!!"
+raise MemoryError("Kaboom!!!")
 
